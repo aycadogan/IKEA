@@ -87,4 +87,17 @@ header{
 }
 .navbar-icons i{
     padding: 0 1rem;
+    color: #111;
 }
+.navbar i:hover{
+    background-color: #e2e2e2;
+    border-radius: 60px;
+}
+.navbar .header-text ul li:hover{
+    text-decoration: underline;
+}
+.navbar-icons a:hover{
+    background-color: #e2e2e2;
+    border-radius: 40px;
+}
+
