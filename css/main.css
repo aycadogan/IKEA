@@ -101,5 +101,27 @@ header{
     border-radius: 40px;
 }
 /* 1st Section */
+#first-section{
+    margin-top: 3rem;
+    margin-left: 7rem;
+    font-size: 0.875rem;
+    display: flex;
+}
+#first-section .article-left img{
+    width: 35rem;
+    height: 33rem;
+}
+#first-section .article-left p{
+    font-size: 0.875rem;
+}
 
-
+#first-section .article-right{
+    margin-left: 1.5rem;
+}
+#first-section .article-right img{
+    width: 32rem;
+    height: 15rem;
+}
+#first-section .article-right .article{
+    margin-bottom: 3rem;
+}

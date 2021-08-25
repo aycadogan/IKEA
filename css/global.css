@@ -1,4 +1,13 @@
-/* section 2 colors */
+.bold-font{
+    font-weight: 700;
+}
+.price-discounted{
+    background-color: #FFDB00;
+    box-shadow: 2px 2px 0 0 #cc0008;
+    padding: 0.05rem 0.4rem;
+}
+
+/* 2nd section colors */
 .color1{
     background-color: #476471;
 }
