@@ -6,4 +6,29 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-
+header{
+    max-width: 100%;
+    margin:0 auto;
+}
+.black-container{
+    height: 2.5rem;
+    background-color: black;
+    font-size: 0.75rem;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.black-container .info{
+    margin: 0 2rem;
+}
+.black-container .info i{
+    color: #fff;
+}
+.black-container .info a{
+    color: #fff;
+    text-decoration: none;
+}
+.header-container .navbar img{
+    width: 10rem;
+    height: 8rem;
+}
