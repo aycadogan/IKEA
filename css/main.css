@@ -8,8 +8,9 @@ body{
 }
 header{
     max-width: 100%;
-    margin:0 auto;
 }
+/* Header */
+/* .black-container */
 .black-container{
     height: 2.5rem;
     background-color: black;
@@ -29,6 +30,61 @@ header{
     text-decoration: none;
 }
 .header-container .navbar img{
+    width: 12rem;
+    height: 8rem;
+}
+/* .navbar */
+.navbar{
+    max-width: 100%;
+    height: 5rem;
+    margin-left: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.navbar img{
     width: 10rem;
     height: 8rem;
+}
+.navbar .header-text ul{
+    display: flex;
+}
+.navbar .header-text ul li{
+    display: block;
+    list-style-type: none;
+    font-weight:700;
+    padding: 0.625rem 0.9375rem;
+    font-size: 0.875rem;
+    color: #111;
+}
+.search-container{
+    margin-left: 2rem;
+}
+.search-container .field_input{
+    background-color: #e2e2e2;
+    opacity: 0.5;
+    width: 20rem;
+    border-radius: 10rem;
+    border-width: 0rem;
+    padding: 0.8125rem 3.375rem 0.8125rem 2.6rem;
+    text-align: left;
+    font-size: 1rem;
+}
+.search-container .fa-search{
+    position: absolute;
+    z-index: 1;
+    left: 529px;
+    top: 73px;
+}
+.search-container .fa-camera{
+    position: absolute;
+    z-index: 1;
+    top: 73px;
+    left: 800px;
+}
+.navbar-icons{
+    margin-left: 2.5rem;
+}
+.navbar-icons i{
+    padding: 0 1rem;
 }
