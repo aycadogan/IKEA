@@ -102,3 +102,9 @@ header{
 }
 
 
+
+
+.box:nth-child(1){
+    background-color: #476471;
+}
+
