@@ -110,6 +110,7 @@ header{
     margin-top: 3rem;
     margin-left: 7rem;
     font-size: 0.875rem;
+    line-height: 1.5rem;
     display: flex;
 }
 #first-section .article-left img{
@@ -273,10 +274,6 @@ header{
     border-left: 1px solid #fff;
     margin-top: 2rem;
     margin-bottom: 4rem;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center; */
     text-align: center;
     position: relative;
 }
