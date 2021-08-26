@@ -133,7 +133,7 @@ header{
     margin-right: 3rem;
 }
 #second-section h1{
-    margin: 1rem 0 2rem 0;
+    margin: 1rem 0 2rem 0.4rem;
     font-size: 1.5625em;
     line-height: 1.36;
     letter-spacing: -0.02625rem;
@@ -198,4 +198,37 @@ header{
 }
 #second-section .border{
     border: 1px solid black;
+}
+/* 3rd Section */
+#third-section{
+    margin-top: 5rem;
+    margin-left: 7.1rem;
+    margin-right: 3.9rem;
+}
+#third-section .articles-container{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#third-section .articles-container img{
+    width: 15rem;
+}
+#third-section .articles-container .article{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#third-section .articles-container .btn{
+    height: 2.5rem;
+    padding: 0 1.5rem;
+    font-size: 0.75rem;
+    background: #fff;
+    border: 0 solid #fff;
+    border-radius: 1rem;
+    font-weight: bold;
+    position: absolute;
+    right: 4rem;
+    bottom: 2.6rem; 
 }
