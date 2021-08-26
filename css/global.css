@@ -47,3 +47,17 @@ hr{
     background: #fff;
     padding: 0;
 }
+.bold-p{
+    color: #484848;
+    font-weight: 700;
+}
+.btn-global{
+    height: 2.5rem;
+    padding: 0 1.5rem;
+    background: #111;
+    border-radius: 64px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    border: 0 solid #111;
+} 

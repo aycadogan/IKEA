@@ -232,6 +232,7 @@ header{
     position: absolute;
     right: 4rem;
     bottom: 2.6rem; 
+    cursor: pointer;
 }
 /* 4rd Section */
 #fourth-section{
@@ -295,6 +296,7 @@ header{
 #fifth-section .boxes .box a{
     color: #484848;
     font-size: 0.875rem;
+    cursor: pointer;
 }
 #fifth-section button{
     height: 2.5rem;
@@ -304,5 +306,47 @@ header{
     border-width: 0;
     border-radius: 3rem;
     font-weight: 600;
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
+    cursor: pointer;
+}
+/* 6th Section */
+#sixth-section{
+    margin-left: 7.1rem;
+    margin-right: 4rem;
+}
+#sixth-section h3{
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+#sixth-section .articles-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#sixth-section .articles-container img{
+    width: 22rem;
+    height: 25rem;
+    margin-bottom: 3rem;
+}
+#sixth-section .articles-container .header-text-button{
+    width: 22rem;
+    height: 27rem;
+}
+#sixth-section .articles-container .header-text-button h4{
+    font-weight: 700;
+    color: #484848;
+    margin-bottom: 1rem;
+}
+#sixth-section .articles-container .header-text-button p{
+    color: #484848;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 1rem;
+}
+
+#sixth-section .articles-container .header-text-button a{
+    color: #484848;
+}
+#sixth-section .articles-container .header-text-button button{
+    margin-top: 2rem;
 }
