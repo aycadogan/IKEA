@@ -206,7 +206,7 @@ header{
     margin-right: 3.9rem;
 }
 #third-section .articles-container{
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -231,4 +231,28 @@ header{
     position: absolute;
     right: 4rem;
     bottom: 2.6rem; 
+}
+/* 4rd Section */
+#fourth-section{
+    margin-top: 5rem;
+    margin-left: 7.1rem;
+    margin-right: 4rem;
+}
+#fourth-section .articles-container {
+    margin-top: 2.1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#fourth-section .articles-container img{
+    width: 22.1rem;
+    height: 13rem;
+}
+#fourth-section .articles-container p{
+    padding-top: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: #484848;
+    font-weight: 400;
+    line-height: 1.571;
+    font-size: 0.875rem;
 }
