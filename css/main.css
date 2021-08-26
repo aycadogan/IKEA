@@ -256,3 +256,56 @@ header{
     line-height: 1.571;
     font-size: 0.875rem;
 }
+/* 5th Section */
+#fifth-section{
+    margin-top: 3rem;
+    margin-left: 7.1rem;
+    margin-right: 4rem;
+}
+#fifth-section .boxes{
+    display: flex;
+    justify-content: space-between;
+}
+#fifth-section .boxes .box{
+    background-color: #F5F5F5;
+    width: 19rem;
+    height: 12rem;
+    border-left: 1px solid #fff;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center; */
+    text-align: center;
+    position: relative;
+}
+#fifth-section .boxes .box i{
+    margin-top: 3rem;
+}
+#fifth-section .boxes .box h3{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #111;
+    margin-bottom: 0.1rem;
+}
+#fifth-section .boxes .box p{
+    color: #484848;
+    font-size: 0.875rem;
+    margin-bottom: 0.3rem;
+}
+#fifth-section .boxes .box a{
+    color: #484848;
+    font-size: 0.875rem;
+}
+#fifth-section button{
+    height: 2.5rem;
+    padding: 0 1.5rem;
+    background-color: #111;
+    color: #fff;
+    border-width: 0;
+    border-radius: 3rem;
+    font-weight: 600;
+    margin-bottom: 5rem;
+}
