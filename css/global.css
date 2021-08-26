@@ -26,3 +26,14 @@
 .color6{
     background-color: #7B9694;
 }
+.black-font{
+    color: #000000;
+}
+.white-font{
+    color: white;
+}
+hr{
+    margin-left: 7.3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
