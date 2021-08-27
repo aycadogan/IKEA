@@ -350,3 +350,100 @@ header{
 #sixth-section .articles-container .header-text-button button{
     margin-top: 2rem;
 }
+#seventh-section{
+    background-color: #FFDB00;
+    margin-left: 7.1rem;
+    margin-right: 4rem;
+    margin-top: 4rem;
+    text-align: left;
+    height: 20rem;
+    margin-bottom: 4rem;
+}
+#seventh-section .working-together-container{
+    width: 60%;
+}
+#seventh-section .working-together-container h3{
+    color: rgba(17,17,17,1);
+    font-weight: bold;
+    margin: 0;
+    word-break: break-word;
+    margin-bottom: 0.5rem !important;
+    font-size: 1.5625rem;
+    line-height: 1.36;
+    letter-spacing: -.02625rem;
+    text-align: left;
+    padding-top: 3rem;
+    margin-left: 3rem;
+}
+#seventh-section .working-together-container p{
+    line-height: 1.571;
+    font-size: 0.875rem;
+    margin-left: 3rem;
+}
+#seventh-section .working-together-container button{
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+#eight-section{
+    margin-left: 7.1rem;
+    margin-right: 4rem;
+}
+#eight-section h3{
+    margin-top: 4rem;
+    font-weight: 700;
+    font-size: 1.5625rem;
+    line-height: 1.36;
+    letter-spacing: -0.02625rem;
+    margin-bottom: 2rem;
+}
+#eight-section .column-section{
+    display: flex;
+    justify-content: space-between;
+}
+#eight-section .column-section .column img{
+    width: 22rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+#eight-section .column-section .column .p-button{
+    width: 23rem;
+    height: 27rem;
+    font-size: 16px;
+    line-height: 26px;
+    color: #484848;
+}
+#eight-section .column-section .column .p-button p{
+    margin-bottom: 1rem;
+}
+
+#eight-section .column-section .column .p-button .p-right{
+    margin-top: 5rem;
+}
+#eight-section .column-section .column .p-button .btn{
+    height: 2.5rem;
+    padding: 0 1.5rem;
+    background-color: white;
+    border: 1px solid #dfdfdf;
+    border-radius: 64px;
+    align-items: center;
+    font-size: 0.75rem;
+    line-height: 1.33333;
+    color: #111;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+
+#eight-section .column-section .column .p-button .btn-fixed{
+    height: 2.5rem;
+    padding: 0 1.5rem;
+    background-color: white;
+    border: 1px solid #dfdfdf;
+    border-radius: 64px;
+    align-items: center;
+    font-size: 0.75rem;
+    line-height: 1.33333;
+    color: #111;
+    font-weight: bold;
+    
+}
+

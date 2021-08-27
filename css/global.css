@@ -60,4 +60,9 @@ hr{
     color: #fff;
     font-weight: 600;
     border: 0 solid #111;
-} 
+    cursor: pointer;
+}
+.blank-space-bottom{
+    margin-bottom: 1rem;
+    
+}
