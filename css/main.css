@@ -7,11 +7,12 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 header{
-    max-width: 100%;
+   
 }
 /* Header */
 /* .black-container */
 .black-container{
+    
     height: 2.5rem;
     background-color: black;
     font-size: 0.75rem;
@@ -540,6 +541,7 @@ header{
 /* Footer */
 #footer{
     background-color: #F5F5F5;
+    height: 40rem;
 }
 #footer .containers{
     display: flex;
