@@ -64,5 +64,13 @@ hr{
 }
 .blank-space-bottom{
     margin-bottom: 1rem;
-    
+}
+.footer-title{
+    font-size: 1rem;
+    color: #111;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.a-global{
+    color: #484848;
 }
