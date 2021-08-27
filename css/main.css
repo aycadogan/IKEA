@@ -150,20 +150,21 @@ header{
     flex-direction: column;
 }
 #second-section .long-article img{
-    width: 350px;
+    width: 355px;
     height: 320px;
 }
 #second-section .long-article .box{
-    width: 350px;
+    width: 355px;
     height: 350px;
 }
 #second-section .long-article .box h2{
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.5625rem;
     text-align: left;
     margin-top: 2rem;
     margin-left: 2rem;
     line-height: 2.5rem;
+    padding-right: 2rem;
 }
 #second-section .long-article .box p{
     margin-bottom: 0 !important;
@@ -172,7 +173,7 @@ header{
     line-height: 1.63rem;
 }
 #second-section .long-article .box .first-arrow{
-    margin-top: 140px;
+    margin-top: 190px;
     margin-left: 2rem;
 }
 #second-section .long-article .box .second-arrow{
@@ -180,7 +181,7 @@ header{
     margin-left: 2rem;
 }
 #second-section .long-article .box .third-arrow{
-    margin-top: 100px;
+    margin-top: 120px;
     margin-left: 2rem;
 }
 

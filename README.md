@@ -1,1 +1,2 @@
 # IKEA
+I made an HTML & CSS project for Ikea. My project is about the landing page of IKEA. The purpose of my project is to improve my HTML & CSS with using flexbox properties to display my elements. I chose IKEA because IKEA always meet user expectations and needs via its e-commerce site. Also, IKEA’s design of landing page is eye-catching. At the final stage, I deployed URL from Github to Netlify.
